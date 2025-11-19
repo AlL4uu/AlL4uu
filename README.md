@@ -149,7 +149,7 @@ Windows                  13 hrs 36 mins      ███████████�
 
 
 
-<table>
+<!-- <table>
   <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/languages.indepth.svg" alt="languages.indepth" /></td>
     <td><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/reactions.svg" alt="reactions" /></td>
@@ -170,7 +170,7 @@ Windows                  13 hrs 36 mins      ███████████�
     <td><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/isocalendar.fullyear.svg" alt="isocalendar.fullyear" /></td>
     <td><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/calendar.full.svg" alt="calendar.full" /></td>
   </tr>
-</table>
+</table> -->
 
 
 <img width="120%" src="https://repobeats.axiom.co/api/embed/dd42bad8effa7ab44d2f3124414ee110611e044a.svg" />
