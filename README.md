@@ -54,7 +54,9 @@
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sun0225SUN&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true" />
 </picture>
 
-
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/AlL4uu/assets@main/wakatime-full-dark.svg" width="800" alt="WakaTime Stats" />
+</div>
 <!--START_SECTION:waka-->
 **I'm an Early 🐤** 
 
