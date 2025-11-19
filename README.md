@@ -158,7 +158,13 @@ Windows                  13 hrs 36 mins      ███████████�
 </table> -->
 
 
-<img width="120%" src="https://repobeats.axiom.co/api/embed/dd42bad8effa7ab44d2f3124414ee110611e044a.svg" />
+<div align="center">
+  <img 
+    src="https://raw.githubusercontent.com/AlL4uu/AlL4uu/master/profile-3d-contrib/profile-night-rainbow.svg"
+    width="120%"
+    alt="3D Contribution Graph"
+  />
+</div>
 
 <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" />
 </div>
