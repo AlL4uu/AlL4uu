@@ -25,7 +25,7 @@
 
 <p>&emsp;&emsp;嗨，你好，我是小Z同学。热爱编程、音乐、读书、建筑、旅行、游戏。</p>
 <p>&emsp;&emsp;热爱计算机科学和 IT 互联网事业，希望能成为一名优秀的开发者。</p>
-<p>&emsp;&emsp;有一年的后端实习经历，参与多个项目，主导一个项目，独立开发一个项目，均以部署交付。</p>
+<p>&emsp;&emsp;有一年的后端实习经历，参与多个项目，主导一个项目，独立开发一个项目，均以交付部署。</p>
 <p>&emsp;&emsp;<strong>Make it work, Make it right, Make it fast. ---Kent Beeck</strong></p>
 
 </tr></td>
