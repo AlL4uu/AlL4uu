@@ -97,9 +97,10 @@ Windows                  13 hrs 36 mins      ███████████�
 <div align="center" >
 ![Go Backend](https://img.shields.io/badge/Go%20Backend-00ADD8?logo=go&labelColor=00ADD8&color=white)
 ![Gin](https://img.shields.io/badge/Gin-000000?logo=gin&labelColor=000000&color=white)
-![GORM](https://img.shields.io/badge/GORM-FF6B6B?logo=go&labelColor=FF6B6B&color=white)
+
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql)
+![GORM](https://img.shields.io/badge/GORM-FF6B6B?logo=go&labelColor=FF6B6B&color=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?logo=elasticsearch)
