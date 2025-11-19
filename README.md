@@ -88,20 +88,13 @@ Windows                  13 hrs 36 mins      ███████████�
 <div align="center">
 <table>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/AlL4uu/assets/main/wakatime-languages.svg" width="500" alt="Languages"/></td>
-    <td><img src="https://raw.githubusercontent.com/AlL4uu/assets/main/wakatime-editors.svg" width="500" alt="Editors"/></td>
+    <td><img src="https://raw.githubusercontent.com/AlL4uu/AlL4uu/master/github-metrics/wakatime-languages.svg" width="500" alt="Languages"/></td>
+    <td><img src="https://raw.githubusercontent.com/AlL4uu/AlL4uu/master/github-metrics/wakatime-editors.svg" width="500" alt="Editors"/></td>
   </tr>
 </table>	
 </div>
 
-
-
-
 <div align="center" >
-
-
-
-
 ![Go Backend Developer](https://img.shields.io/badge/Go%20Backend%20Developer-%E2%9C%94-00ADD8?logo=go)
 ![Framework](https://img.shields.io/badge/Framework-Gin-000000?logo=gin)
 ![ORM](https://img.shields.io/badge/ORM-GORM-FF6B6B?logo=go&logoColor=white)
