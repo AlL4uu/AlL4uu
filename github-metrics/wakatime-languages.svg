@@ -1,0 +1,90 @@
+<!-- 文件名: wakatime-languages.svg -->
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="360" viewBox="0 0 495 360" fill="none">
+  <style>
+    .header { font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif; fill: #f0f6fc; }
+    .lang { font: 12px 'Segoe UI', Ubuntu, Sans-Serif; fill: #c9d1d9; }
+    .percent { font: 12px 'Segoe UI', Ubuntu, Sans-Serif; fill: #f0f6fc; font-weight: 500; }
+    .bar { rx: 2; }
+  </style>
+  <text x="0" y="22" class="header">Languages</text>
+
+  <!-- Go -->
+  <text x="0" y="50" class="lang">Go</text>
+  <rect x="100" y="40" width="390" height="8" fill="#00ADD8" class="bar"/>
+  <text x="495" y="50" text-anchor="end" class="percent">80.00%</text>
+
+  <!-- TypeScript -->
+  <text x="0" y="70" class="lang">TypeScript</text>
+  <rect x="100" y="60" width="38" height="8" fill="#3178c6" class="bar"/>
+  <text x="495" y="70" text-anchor="end" class="percent">5.77%</text>
+
+  <!-- SQL -->
+  <text x="0" y="90" class="lang">SQL</text>
+  <rect x="100" y="80" width="22" height="8" fill="#e34c26" class="bar"/>
+  <text x="495" y="90" text-anchor="end" class="percent">3.46%</text>
+
+  <!-- HTML -->
+  <text x="0" y="110" class="lang">HTML</text>
+  <rect x="100" y="100" width="12" height="8" fill="#e34c26" class="bar"/>
+  <text x="495" y="110" text-anchor="end" class="percent">1.92%</text>
+
+  <!-- CSS -->
+  <text x="0" y="130" class="lang">CSS</text>
+  <rect x="100" y="120" width="10" height="8" fill="#563d7c" class="bar"/>
+  <text x="495" y="130" text-anchor="end" class="percent">1.54%</text>
+
+  <!-- JavaScript -->
+  <text x="0" y="150" class="lang">JavaScript</text>
+  <rect x="100" y="140" width="7" height="8" fill="#f7df1e" class="bar"/>
+  <text x="495" y="150" text-anchor="end" class="percent">1.15%</text>
+
+  <!-- Markdown -->
+  <text x="0" y="170" class="lang">Markdown</text>
+  <rect x="100" y="160" width="12" height="8" fill="#083fa1" class="bar"/>
+  <text x="495" y="170" text-anchor="end" class="percent">1.92%</text>
+
+  <!-- JSON -->
+  <text x="0" y="190" class="lang">JSON</text>
+  <rect x="100" y="180" width="7" height="8" fill="#000000" class="bar"/>
+  <text x="495" y="190" text-anchor="end" class="percent">1.15%</text>
+
+  <!-- YAML -->
+  <text x="0" y="210" class="lang">YAML</text>
+  <rect x="100" y="200" width="6" height="8" fill="#cb171e" class="bar"/>
+  <text x="495" y="210" text-anchor="end" class="percent">0.92%</text>
+
+  <!-- Dockerfile -->
+  <text x="0" y="230" class="lang">Dockerfile</text>
+  <rect x="100" y="220" width="5" height="8" fill="#384d54" class="bar"/>
+  <text x="495" y="230" text-anchor="end" class="percent">0.77%</text>
+
+  <!-- Bash -->
+  <text x="0" y="250" class="lang">Bash</text>
+  <rect x="100" y="240" width="4" height="8" fill="#4eaa2f" class="bar"/>
+  <text x="495" y="250" text-anchor="end" class="percent">0.62%</text>
+
+  <!-- Makefile -->
+  <text x="0" y="270" class="lang">Makefile</text>
+  <rect x="100" y="260" width="3" height="8" fill="#427819" class="bar"/>
+  <text x="495" y="270" text-anchor="end" class="percent">0.54%</text>
+
+  <!-- TOML -->
+  <text x="0" y="290" class="lang">TOML</text>
+  <rect x="100" y="280" width="2" height="8" fill="#ff69b4" class="bar"/>
+  <text x="495" y="290" text-anchor="end" class="percent">0.38%</text>
+
+  <!-- Lua -->
+  <text x="0" y="310" class="lang">Lua</text>
+  <rect x="100" y="300" width="2" height="8" fill="#000080" class="bar"/>
+  <text x="495" y="310" text-anchor="end" class="percent">0.38%</text>
+
+  <!-- Git Config -->
+  <text x="0" y="330" class="lang">Git Config</text>
+  <rect x="100" y="320" width="2" height="8" fill="#F05033" class="bar"/>
+  <text x="495" y="330" text-anchor="end" class="percent">0.31%</text>
+
+  <!-- GraphQL -->
+  <text x="0" y="350" class="lang">GraphQL</text>
+  <rect x="100" y="340" width="2" height="8" fill="#e10098" class="bar"/>
+  <text x="495" y="350" text-anchor="end" class="percent">0.31%</text>
+</svg>
