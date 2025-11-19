@@ -95,30 +95,39 @@ Windows                  13 hrs 36 mins      ███████████�
 </div>
 
 <div align="center" >
-![Go Backend Developer](https://img.shields.io/badge/Go%20Backend%20Developer-%E2%9C%94-00ADD8?logo=go)
-![Framework](https://img.shields.io/badge/Framework-Gin-000000?logo=gin)
-![ORM](https://img.shields.io/badge/ORM-GORM-FF6B6B?logo=go&logoColor=white)
-![Database](https://img.shields.io/badge/Database-MySQL%20|%20MongoDB-4479A1?logo=mysql)
-![Cache](https://img.shields.io/badge/Cache-Redis-DC382D?logo=redis)
-![Search](https://img.shields.io/badge/Search-Elasticsearch-005571?logo=elasticsearch)![MQTT](https://img.shields.io/badge/MQTT-Paho--Go-00B5E2?logo=mosquitto)
-![Container](https://img.shields.io/badge/Container-Docker%20|%20Docker%20Compose-2496ED?logo=docker)
-![Server](https://img.shields.io/badge/Server-Linux%20|%20Nginx-000000?logo=linux)![Testing](https://img.shields.io/badge/Testing-TDD%20|%20Table--Driven-3C873A?logo=go&logoColor=fff)
-![Design](https://img.shields.io/badge/Design%20Principles-DDD%20|%20Patterns-E91E63?logo=design&logoColor=white)
-![VCS](https://img.shields.io/badge/VCS-Git-F05032?logo=git&logoColor=red)![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
-![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
-![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
-![Vue.js Badge](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=flat)
-![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=fff&style=flat)
-![Qt Badge](https://img.shields.io/badge/Qt-41CD52?logo=qt&logoColor=fff&style=flat)
-![MongoDB Badge](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=flat)
-![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat)
-![Node.js Badge](https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=flat)
-![jQuery Badge](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff&style=flat)
-![Vite Badge](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=flat)
-![Windows Badge](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=flat)
-![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat)
-![Visual Studio Badge](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=fff&style=flat)
-![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
+[Go Backend Developer](https://img.shields.io/badge/Go%20Backend%20Developer-%E2%9C%94-00ADD8?logo=go)
+[Framework](https://img.shields.io/badge/Framework-Gin-000000?logo=gin)
+[ORM](https://img.shields.io/badge/ORM-GORM-FF6B6B?logo=go&logoColor=white)
+[Database](https://img.shields.io/badge/Database-MySQL%20|%20MongoDB-4479A1?logo=mysql)
+[Cache](https://img.shields.io/badge/Cache-Redis-DC382D?logo=redis)
+[Search](https://img.shields.io/badge/Search-Elasticsearch-005571?logo=elasticsearch)
+[MQTT](https://img.shields.io/badge/MQTT-Paho--Go-00B5E2?logo=mosquitto)
+[Container](https://img.shields.io/badge/Container-Docker%20|%20Docker%20Compose-2496ED?logo=docker)
+[Server](https://img.shields.io/badge/Server-Linux%20|%20Nginx-000000?logo=linux)
+[Testing](https://img.shields.io/badge/Testing-TDD%20|%20Table--Driven-3C873A?logo=go&logoColor=fff)
+[Design](https://img.shields.io/badge/Design%20Principles-DDD%20|%20Patterns-E91E63?logo=design&logoColor=white)
+[VCS](https://img.shields.io/badge/VCS-Git-F05032?logo=git&logoColor=red)
+
+<!-- 前端技术栈 -->
+[HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff)
+[CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff)
+[JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
+[Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff)
+[jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff)
+[Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff)
+
+<!-- 后端 & 其他 -->
+[Spring](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=fff)
+[Node.js](https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff)
+[MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff)
+
+<!-- 系统 & 工具 -->
+[C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff)
+[Qt](https://img.shields.io/badge/Qt-41CD52?logo=qt&logoColor=fff)
+[Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff)
+[Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff)
+[Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=fff)
+[GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff)
 
 ![Main Technologies](https://skillicons.dev/icons?i=go,java,mysql,mongodb,redis,elasticsearch,postman,docker,linux,nginx,git,github,vscode)
 
